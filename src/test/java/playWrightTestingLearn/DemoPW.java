@@ -25,6 +25,7 @@ public class DemoPW {
 
         // Print page title
         System.out.println("Page Title is: " + page.title());
+		 browser.close();
 
         // Close browser
      //   browser.close();
